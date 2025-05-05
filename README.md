@@ -1,16 +1,11 @@
 # G.app
-Perfect. Since we're going **mobile-first**, we’ll build using **React Native** — which gives you iOS + Android from one codebase.
-
-Let’s now create the **mobile-first folder structure** with clean architecture, modular scalability, and organized directories. This will ensure it’s easy to plug in more games later.
-
----
 
 ## 📁 STEP 2: FOLDER STRUCTURE FOR MOBILE MINI-GAME APP
 
 We'll call the project:
 `/multi-mini-games-app`
 
-Here’s your structure:
+Here’s my idea for App structure:
 
 ```
 /multi-mini-games-app
@@ -88,11 +83,11 @@ git push -u origin main
 
 ---
 
-✅ You now have the shell of your full app: mobile-first, modular, and ready to scale.
+✅ I have the shell of your full app: mobile-first, modular, and ready to scale.
 
 ---
 
-Would you like me to provide you with the starter files for:
+Which starter files should i start with? :
 
 * `App.tsx`
 * Navigation setup
@@ -296,13 +291,13 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 ---
 
-Would you like next:
+What I would like to start next:
 
 1. 🎮 First Game Setup (e.g. Bingo UI)?
 2. 🔄 Connecting frontend wallet to backend via API?
 3. 🔐 Firebase Auth Integration?
 
-Which piece would you like to continue with next?
+Piece I would you like to continue with next?
 Excellent choice. Let's build this **from the ground up**, so it’s easy to extend, test, and impress. We’ll now set up:
 
 1. ✅ `App.tsx` starter
@@ -500,10 +495,10 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
 ---
 
-Would you like next:
+What I will be working on next:
 
 1. 🎮 First Game Setup (e.g. Bingo UI)?
 2. 🔄 Connecting frontend wallet to backend via API?
 3. 🔐 Firebase Auth Integration?
 
-Which piece would you like to continue with next?
+
